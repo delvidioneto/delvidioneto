@@ -1,5 +1,10 @@
 ### Olá Sou o Delvidio, mas pode me chamar de Del.
 
+<div>
+  <a href="https://beacons.ai/delvidioneto">
+   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent"/>
+</div>
+
 <!--
 **delvidioneto/delvidioneto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
