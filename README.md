@@ -2,7 +2,7 @@
 
 - Estou atualmente atuando como Analista de dados.
 - Já desenvolvi ERP de 2 grandes instituições, com Delphi.
-- Hoje estou no processo de voltar ao desenvolvimento. 
+- Criei dashboard incriveis para tomadas de decisões.
 
   <div>
     <a href="https://github.com/delvidioneto">
