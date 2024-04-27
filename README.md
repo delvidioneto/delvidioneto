@@ -1,8 +1,11 @@
 ### Olá Sou o Delvidio, mas pode me chamar de Del.
 
-- Estou atualmente atuando como Analista de dados.
+- Hoje estou atuando como Analista de dados.
+- Criei dashboard incriveis para tomadas de decisões que faziam parte de reuniões com acionistas da empresa.
+- Aprendi JavaScript e TypeScript para desenvolver visuais do Power Bi.
 - Já desenvolvi ERP de 2 grandes instituições, com Delphi.
-- Criei dashboard incriveis para tomadas de decisões.
+- Sou um Dev perdido na área de negócios.
+
 
   <div>
     <a href="https://github.com/delvidioneto">
