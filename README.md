@@ -1,10 +1,16 @@
-### Olá Sou o Delvidio, mas pode me chamar de Del.
+### 👋 E aí, sou o Delvidio, mas pode me chamar de Del.
 
-- Hoje estou atuando como Analista de dados.
-- Criei dashboard incriveis para tomadas de decisões que faziam parte de reuniões com acionistas da empresa.
-- Aprendi JavaScript e TypeScript para desenvolver visuais do Power Bi.
-- Já desenvolvi ERP de 2 grandes instituições, com Delphi.
-- Sou um Dev perdido na área de negócios.
+Dev Python que vive resolvendo problema com código, café e umas gambiarras elegantes quando precisa.
+
+- Python, ETL/ELT, automações e APIs.  
+- Databricks, PySpark, SQL e arquitetura de dados.  
+- Django/DRF pra construir sistemas e integrações.  
+- Power BI com DAX nervoso e visuais customizados em JS/TS.  
+- Já fiz até ERP em Delphi (sobrevivi, então nada mais me assusta).
+
+**Resumo:**  
+Dev Python que entende de dados *e* de negócio.  
+Se precisar integrar, orquestrar, automatizar ou criar um sistema: eu faço. E entrego bem feito.
 
 
   <div>
