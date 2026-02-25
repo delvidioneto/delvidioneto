@@ -11,13 +11,6 @@ Dev Python que vive resolvendo problema com código, café e umas gambiarras ele
 **Resumo:**  
 Dev Python que entende de dados *e* de negócio.  
 Se precisar integrar, orquestrar, automatizar ou criar um sistema: eu faço. E entrego bem feito.
-
-
-  <div>
-    <a href="https://github.com/delvidioneto">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=delvidioneto&show_icons=true&theme=merko"/>
-<!--     <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=delvidioneto&layout=compact&langs_count=16&theme=merko"/> -->
-  </div>
   
 ##
   
